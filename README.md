@@ -1,4 +1,5 @@
 # 💫About Me :
+⏲️I live in Central USA timezone. 
 I am working on an app that will draw cards from a deck to use in TableTop RPG's.
 
 
